@@ -13,6 +13,8 @@ column *Source* is listed where we got the parts; these sources are not
 an advertisement or recommendation for certain sellers or platforms, but
 are merely intended to indicate where the material could be sourced.
 
+### BOM Scale
+
   Qty.  | Title                             |Decription                  |Source
   ------| --------------------------------- |--------------------------- |-------------
   1     | Overflow grid                     |`Scale_overflow_grid.stl`   |3D printed
@@ -25,7 +27,8 @@ are merely intended to indicate where the material could be sourced.
   4     | Screw for thermoplasts 3x10       |                            |Wegertseder
   1     | Load cell 1 kg with HX711 board   |                            |Amazon
 |
-  : BOM Scale
+
+### BOM Pump
 
   Qty.   |Title                                       |Description              |Source
   ------ |------------------------------------------- |------------------------ |-------------
@@ -36,7 +39,7 @@ are merely intended to indicate where the material could be sourced.
   4      |Threaded rod M3x65                          |                         |DIY Store
   12     |DIN 934 Nut M3                              |                         |Wegertseder
 
-  : BOM Pump
+### BOM Valves
 
   Qty.   |Title                    |Description          |Source
   ------ |------------------------ |-------------------- |-------------
@@ -51,7 +54,7 @@ are merely intended to indicate where the material could be sourced.
   72     |DIN 934 Nut M3           |                     |Wegertseder
   24     |DIN 466 Knurled nut M3   |                     |Wegertseder
 
-  : BOM Valves
+### BOM Arm
 
   Qty.   |Title                                 |Description                     | Source
   ------ |------------------------------------- |--------------------------------| -------------
@@ -76,7 +79,7 @@ are merely intended to indicate where the material could be sourced.
   6      |DIN 125 Washer 3.2                    |                                | Wegertseder
   2      |Blind rivet nut M3x10 flat            |                                | Wegertseder
 
-  : BOM Arm
+### BOM Bell
 
   Qty.   |Title                   |Description                |Source
   ------ |----------------------- |-------------------------- |-------------
@@ -89,7 +92,7 @@ are merely intended to indicate where the material could be sourced.
   7      |ISO 7380 Bolt M3x12     |                           |Wegertseder
   11     |DIN 934 Nut M3          |                           |Wegertseder
 
-  : BOM Bell
+### BOM Display
 
   Qty.   |Title                         |Description             |Source
   ------ |----------------------------- |----------------------- |------------
@@ -109,7 +112,7 @@ are merely intended to indicate where the material could be sourced.
   4      |ISO 7380 Bolt M3x16           |                          |Wegertseder
   4      |DIN 934 Nut M3                |                          |Wegertseder
 
-  : BOM Display
+### BOM Misc
 
   Qty.        |Title                           |Description                    |Source
   ----------- |------------------------------- |------------------------------ |------------
@@ -119,5 +122,3 @@ are merely intended to indicate where the material could be sourced.
   ca. 1.5 m   |WS2812B LED Strips              |12 VDC version!                |Amazon
   ca. 30 m    |Silicone hose 6 mm x 4 mm       |food-safe;do not buy the cheapest one!      |Amazon
   1           |Flush funnel version A or B     |`Flush-funnel-XY.stl`          |3D printed
-
-  : BOM Misc.

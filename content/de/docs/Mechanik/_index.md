@@ -30,9 +30,9 @@ bewährt:
 
 6.  Deckel verschrauben.
 
-![Waage mit Glas](/images/scale_glass.JPG){#scale_glass height="8cm"}
+![Waage mit Glas](/images/scale_glass.JPG)
 
-![Waage von unten](/images/scale_bottom.JPG){height="8cm"}
+![Waage von unten](/images/scale_bottom.JPG)
 
 ### Pumpe
 
@@ -59,7 +59,7 @@ Folgende Reihenfolge bei der Montage hat sich bewährt:
 
 5.  Muttern an den U-Profilen kontern oder mit Loctite verkleben.
 
-![Luftpumpe](/images/pump.JPG){#pump height="8cm"}
+![Luftpumpe](/images/pump.JPG)
 
 ### Ventile
 
@@ -88,19 +88,18 @@ einige hundert Zyklen hinter sich und funktionieren immer noch
 einwandfrei. Alternativ könnten die Zungen aus PET gedruckt werden, dies
 wurde allerdings noch nicht getestet. Damit die Ventile bündig mit der
 Rückwand sitzen, müssen Auschnitte für die Servos hergestellt werden
-(Abb. [4](#valve_rear){reference-type="ref" reference="valve_rear"}).
+(Abb. [4](#valve_rear)).
 Zur Befestigung der Ventile haben sich Einschlagmuttern bewährt.
 
-![Ventile](/images/valve_front.JPG){#valve_front height="8cm"}
+![Ventile](/images/valve_front.JPG)
 
-![Ventile von hinten](/images/valve_rear.JPG){#valve_rear height="8cm"}
+![Ventile von hinten](/images/valve_rear.JPG)
 
 ### Arm
 
 Um den Füllvorgang komfortabler zu gestalten, ist der Arm mit dem
 Dosierkopf im Normalzustand eingefahren (Abb.
-[\[arm_front_in\]](#arm_front_in){reference-type="ref"
-reference="arm_front_in"}). Wird der Dosiervorgang gestartet, fährt der
+[\[arm_front_in\]](#arm_front_in)). Wird der Dosiervorgang gestartet, fährt der
 Arm nach vorne. Alle benötigten Kunststoffteile lassen sich ohne Support
 drucken. Der Gleiteinsatz sollte aus einem Material mit guten
 Gleiteigenschaften gefertigt werden. Unser Gleiteinsatz wurde aus
@@ -120,12 +119,12 @@ von hinten durch die Bohrung geführt und mit einer regulären Mutter
 festgeschraubt wird. Die oberen Schrauben werden von vorne durch die
 Rückwand gesteckt und verschraubt. Auf der unteren Schraube kann nun mit
 einer Rändelmutter der Tropfenfänger montiert werden (Abb.
-[\[drip\]](#drip){reference-type="ref" reference="drip"}).
+[\[drip\]](#drip)).
 
-![Arm Rückseite](/images/arm_rear.jpg){#arm_rear height="8cm"}
+![Arm Rückseite](/images/arm_rear.jpg)
 
-![image](/images/nodrip.JPG){height="8cm"}
-![image](/images/yodrip.JPG){height="8cm"}
+![image](/images/nodrip.JPG)
+![image](/images/yodrip.JPG)
 
 ### Glocke
 
@@ -138,14 +137,13 @@ Bohrlehre benutzt. Die Montage des Fingers an der Rückwand ist
 eigentlich selbsterklärend. Zur Befestigung der Motorhalterung
 (Bell_servo-bracket.stl) an der Rückwand ist es ratsam, Einschlagmuttern
 oder Gewindeeinsätze zu verwenden, so kann der Finger später leicht
-justiert werden (Abb. [8](#finger){reference-type="ref"
-reference="finger"}).
+justiert werden (Abb. [8](#finger)).
 
-![Befestigung der Glocke](/images/bell_mount.JPG){#bell_mount height="8cm"}
+![Befestigung der Glocke](/images/bell_mount.JPG)
 
-![Glocke](/images/bell.jpg){#bell height="8cm"}
+![Glocke](/images/bell.jpg)
 
-![Finger mit Halterung](/images/finger.JPG){#finger height="8cm"}
+![Finger mit Halterung](/images/finger.JPG)
 
 ### Schläuche
 
@@ -159,10 +157,9 @@ geführt. Ein Schlauch leitet die Flüssigkeiten von der Flasche zum
 Dosierkopf, der andere Schlauch verbindet Luftpumpe und Flasche. Bei der
 Verlegung der Schläuche im Gehäuse muss darauf geachtet werden, dass
 sich die Schläuche nicht mit dem Arm verheddern. Wir haben dafür einfach
-Kabelbinder benutzt (Abb. [9](#hoses){reference-type="ref"
-reference="hoses"}).
+Kabelbinder benutzt (Abb. [9](#hoses)).
 
-![Führung der Schläuche](/images/hoses.JPG){#hoses height="8cm"}
+![Führung der Schläuche](/images/hoses.JPG)
 
 ### Stopfen
 
@@ -176,7 +173,7 @@ Stopfen werden die Schläuche angeschlossen, die zu den Ventilen führen
 anderen Seite des Stopfens wird ein Stück Silikonschlauch angeschlossen,
 das bis zum Boden der Flasche reicht.
 
-![Stopfen](/images/plugs.JPG){#plugs height="8cm"}
+![Stopfen](/images/plugs.JPG)
 
 ### Spültrichter
 
@@ -189,7 +186,7 @@ befördert. Der Spültrichter kann ohne Support gedruckt werden. Die
 Schlauchtülle ist für einen Silikonschlauch mit 10 mm Innendurchmesser
 konzipiert.
 
-![Spültrichter](/images/funnel.JPG){#funnel height="8cm"}
+![Spültrichter](/images/funnel.JPG)
 
 ### Gehäuse
 
@@ -208,7 +205,7 @@ der Nieten kommen. Das Gehäuse ist in der Stückliste nicht
 berücksichtigt, hier soll jeder seiner Kreativität freien Lauf
 lassen.[^1]
 
-![Hector 9000](/images/hector9000.JPG){#hector9000 height="8cm"}
+![Hector 9000](/images/hector9000.JPG)
 
 ### Display
 
@@ -217,11 +214,9 @@ Touch-Funktion über USB entschieden. Die USB-Variante ist notwendig, da
 die GPIOs für andere Funktionen genutzt werden. Das Display ist an einer
 Querstrebe des Gehäuses befestigt. Für den Transport kann das Display in
 das Gehäuse gedreht werden (Abb.
-[\[display_half_in\]](#display_half_in){reference-type="ref"
-reference="display_half_in"}). In dem gedruckten Gehäuse für das Display
+[\[display_half_in\]](#display_half_in)). In dem gedruckten Gehäuse für das Display
 sind 3 Löcher für die Montage an dem Rahmen. Für die Befestigung werden
 nur zwei Löcher benötigt: das mittlere Loch und ein äußeres. Das Display
 wird mittels Blindnietmuttern und Rändelschrauben mit dem Rahmen
 verschraubt. Um das Display zu drehen, wird die äußere Schraube entfernt
 und die mittlere Schraube gelöst.
-

@@ -30,9 +30,9 @@ useful for the assembly of the scale:
 
 6.  Screw on the lid.
 
-![Scale with glass](/images/scale_glass.JPG){#scale_glass height="8cm"}
+![Scale with glass](/images/scale_glass.JPG)
 
-![Bottom of the scale](/images/scale_bottom.JPG){height="8cm"}
+![Bottom of the scale](/images/scale_bottom.JPG)
 
 ### Pump
 
@@ -57,7 +57,7 @@ following sequence during assembly has proven itself:
 
 5.  Counter the nuts (or glue with Loctite).
 
-![Airpump](/images/pump.JPG){#pump height="8cm"}
+![Airpump](/images/pump.JPG)
 
 ### Valves
 
@@ -81,20 +81,19 @@ were printed from *Iglidur I150*. The tongues in the valves of Uncle
 Hector have been through a few hundred cycles and still work flawlessly.
 Alternatively, the tongues could be printed from PET, but this has not
 been tested yet. For the valves to sit flush with the rear wall, cutouts
-for the servos must be made (Fig. [4](#valve_rear){reference-type="ref"
-reference="valve_rear"}). For fastening the valves, captive nuts have
+for the servos must be made (Fig. [4](#valve_rear)).
+ For fastening the valves, captive nuts have
 been proven.
 
-![Valves](/images/valve_front.JPG){#valve_front height="8cm"}
+![Valves](/images/valve_front.JPG)
 
-![Valves (rear view)](/images/valve_rear.JPG){#valve_rear height="8cm"}
+![Valves (rear view)](/images/valve_rear.JPG)
 
 ### Arm
 
 In order to make the filling process more comfortable, the arm with the
 dosing head is retracted in the idle state
-(Fig. [\[arm_front_in\]](#arm_front_in){reference-type="ref"
-reference="arm_front_in"}). When the dosing process is started, the arm
+(Fig. [\[arm_front_in\]](#arm_front_in)). When the dosing process is started, the arm
 moves forward. All required plastic parts can be printed without
 support. The gliding insert should be made of a material with good
 sliding properties. Our gliding insert was printed from *Iglidur I150*.
@@ -111,7 +110,7 @@ When mounting the arm, make sure that the bottom bolt is passed through
 the hole from the rear and screwed down with a regular nut. The upper
 bolts are inserted from the front through the rear wall. The drip
 catcher can now be mounted on the lower screw with a knurled nut
-(Fig. [\[drip\]](#drip){reference-type="ref" reference="drip"}).
+(Fig. [\[drip\]](#drip)).
 
 ![Arm (rear view)](/images/arm_rear.jpg){#arm_rear height="8cm"}
 
@@ -120,19 +119,19 @@ catcher can now be mounted on the lower screw with a knurled nut
 When building the mechanism for the bell, make sure that the center of
 the bell is 100 mm away from the rotational axis of the arm. A bracket
 is provided for attaching the bell
-(Fig. [6](#bell_mount){reference-type="ref" reference="bell_mount"}). To
+(Fig. [6](#bell_mount)). To
 drill the necessary holes in the bell, the bracket is used as a drilling
 jig. The mounting of the finger on the back wall is actually
 self-explanatory. To attach the motor bracket (Bell_servo-bracket.stl)
 to the rear panel, it is advisable to use captive nuts or threaded
 inserts, so the finger can be easily adjusted later
-(Fig. [8](#finger){reference-type="ref" reference="finger"}).
+(Fig. [8](#finger)).
 
-![Mounting of the bell](/images/bell_mount.JPG){#bell_mount height="8cm"}
+![Mounting of the bell](/images/bell_mount.JPG)
 
-![Bell](/images/bell.jpg){#bell height="8cm"}
+![Bell](/images/bell.jpg)
 
-![Finger with bracket](/images/finger.JPG){#finger height="8cm"}
+![Finger with bracket](/images/finger.JPG)
 
 ### Hoses
 
@@ -145,9 +144,9 @@ passed through a valve. One hose directs the liquids from the bottle to
 the dosing head, the other hose connects the air pump and the bottle.
 When guiding the hoses through the housing, care must be taken that the
 hoses do not tangle with the arm. We just used cable ties
-(Fig. [9](#hoses){reference-type="ref" reference="hoses"}).
+(Fig. [9](#hoses)).
 
-![Guiding the hoses](/images/hoses.JPG){#hoses height="8cm"}
+![Guiding the hoses](/images/hoses.JPG)
 
 ### Plugs
 
@@ -159,7 +158,7 @@ are the hoses leading to the valves (do not confuse air and beverage
 hoses!) connected. On the other side of the plug is a piece of silicone
 tubing connected which reaches to the bottom of the bottle.
 
-![Plugs](/images/plugs.JPG){#plugs height="8cm"}
+![Plugs](/images/plugs.JPG)
 
 ### Flushing funnel
 
@@ -170,7 +169,7 @@ the wastewater directly into a bucket or spout. The flushing funnel can
 be printed without support. The hose nozzle is designed for a silicone
 hose with an internal diameter of 10 mm.
 
-![Flushing funnel](/images/funnel.JPG){#funnel height="8cm"}
+![Flushing funnel](/images/funnel.JPG)
 
 ### Housing
 
@@ -187,7 +186,7 @@ and profiles, otherwise problems may occur when inserting the rivets.
 The case is not included in the bill of materials, here everyone should
 let their creativity run free[^1].
 
-![Hector 9000](/images/hector9000.JPG){#hector9000 height="8cm"}
+![Hector 9000](/images/hector9000.JPG)
 
 ### Display
 
@@ -195,8 +194,7 @@ For the selection of drinks we have opted for a 7" display with touch
 function via USB. The USB version is necessary because the GPIOs are
 used for other functions. The display is attached to a extruded profile
 of the housing. For transport the display can be turned into the housing
-(Fig. [\[display_half_in\]](#display_half_in){reference-type="ref"
-reference="display_half_in"}). In the printed housing for the display
+(Fig. [\[display_half_in\]](#display_half_in)). In the printed housing for the display
 are 3 holes for mounting it to the frame. Only two holes are needed for
 the attachment: the middle hole and an outer one. The display is screwed
 to the frame by means of blind rivet nuts and knurled screws. To turn
