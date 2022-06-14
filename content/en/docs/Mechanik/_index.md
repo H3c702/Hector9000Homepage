@@ -112,7 +112,7 @@ bolts are inserted from the front through the rear wall. The drip
 catcher can now be mounted on the lower screw with a knurled nut
 (Fig. [\[drip\]](#drip)).
 
-![Arm (rear view)](/images/arm_rear.jpg){#arm_rear height="8cm"}
+![Arm (rear view)](/images/arm_rear.jpg)
 
 ### Bell
 
