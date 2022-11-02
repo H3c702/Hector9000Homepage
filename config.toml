@@ -142,6 +142,11 @@ enable = false
 	url = "https://twitter.com/DevTownde"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
+[[params.links.user]]
+	name ="Youtube"
+	url = "https://www.youtube.com/@hector9000"
+	icon = "fab fa-youtube"
+        desc = "Follow us on Youtube"
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
