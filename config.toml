@@ -134,7 +134,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "Discord"
-	url = "https://discord.gg/UaV3MPyQ"
+	url = "https://discord.gg/MHJh4bBddY"
 	icon = "fab fa-discord"
         desc = "Discussion and help from your fellow users"
 [[params.links.user]]
