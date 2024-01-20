@@ -138,9 +138,9 @@ enable = false
 	icon = "fab fa-discord"
         desc = "Discussion and help from your fellow users"
 [[params.links.user]]
-	name ="DevTown(Maintainer) on Twitter"
-	url = "https://twitter.com/DevTownde"
-	icon = "fab fa-twitter"
+	name ="DevTown(Maintainer) on Mastodon"
+	url = "https://chaos.social/@dev_town"
+	icon = "fab fa-mastodon"
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
 	name ="Youtube"
