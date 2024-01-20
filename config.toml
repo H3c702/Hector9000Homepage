@@ -150,11 +150,6 @@ enable = false
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
-	name = "Software Freedom Conservancy"
-	url = "mailto:selenium@sfconservancy.org"
-	icon = "fas fa-envelope-square"
-        desc = "Reach out to the SFC."
-[[params.links.developer]]
 	name = "GitHub"
 	url = "https://github.com/H3c702"
 	icon = "fab fa-github"
